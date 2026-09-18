@@ -26,6 +26,7 @@ Free apps, extensions and small useful tools for Windows, Android, gaming device
 | **[CarePad](https://github.com/JoelMomo/CarePad)** | Controller-friendly AYN Thor companion for diagnostics, games/BIOS checks, controls and device tools. |
 | **[RuneBoard](https://github.com/JoelMomo/RuneBoard)** | Dual-screen Android keyboard designed around the AYN Thor lower display and physical controls. |
 | **[ChatGPT Completion Sound](https://github.com/JoelMomo/chatgpt-completion-sound)** | Lightweight Chrome and Edge extension for completion sounds and notifications. |
+| **[ChatGPT MultiChat](https://github.com/JoelMomo/ChatGPT-MultiChat)** | Portable Windows coordinator for multiple ChatGPT Desktop Commander sessions, with isolated Git worktrees, ports and shared-resource locks. |
 
 ## What I build
 
