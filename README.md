@@ -22,11 +22,12 @@ Free apps, extensions and small useful tools for Windows, Android, gaming device
 
 | Project | What it does |
 | --- | --- |
-| **[Thor Wi-Fi Recovery](https://github.com/JoelMomo/AYN-Thor-WiFi-Recovery)** | Android recovery utility for the intermittent Wi-Fi scan lockup on AYN Thor. |
 | **[CarePad](https://github.com/JoelMomo/CarePad)** | Controller-friendly AYN Thor companion for diagnostics, games/BIOS checks, controls and device tools. |
 | **[RuneBoard](https://github.com/JoelMomo/RuneBoard)** | Dual-screen Android keyboard designed around the AYN Thor lower display and physical controls. |
+| **[Thor Wi-Fi Recovery](https://github.com/JoelMomo/AYN-Thor-WiFi-Recovery)** | Android recovery utility for the intermittent Wi-Fi scan lockup on AYN Thor. |
+| **[ChatGPT MultiChat Monitor](https://github.com/JoelMomo/chatgpt-multichat-monitor)** | Lightweight Chrome and Edge floating monitor for tracking multiple ChatGPT conversations across tabs and windows. |
+| **[ChatGPT MultiChat](https://github.com/JoelMomo/ChatGPT-MultiChat)** | Portable Windows coordination layer for parallel ChatGPT + Desktop Commander sessions, with isolated Git worktrees, ports, resource locks and a local dashboard. |
 | **[ChatGPT Completion Sound](https://github.com/JoelMomo/chatgpt-completion-sound)** | Lightweight Chrome and Edge extension for completion sounds and notifications. |
-| **[ChatGPT MultiChat](https://github.com/JoelMomo/ChatGPT-MultiChat)** | Portable Windows coordinator for multiple ChatGPT Desktop Commander sessions, with isolated Git worktrees, ports and shared-resource locks. |
 
 ## What I build
 
