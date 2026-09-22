@@ -2,11 +2,11 @@
 
 # JoëlMomo
 
-Free apps, extensions and small useful tools for Windows, Android, gaming devices and everyday workflows.
+Free apps and tools for **AYN Thor**, **ChatGPT workflows**, **Windows** and the browser.
 
 <p>
   <a href="https://joelmomo.github.io/">
-    <img src="https://img.shields.io/badge/Apps%20%26%20tools-Browse-6F8F72?style=for-the-badge" alt="Browse apps and tools">
+    <img src="https://img.shields.io/badge/Portfolio-Browse%20apps%20%26%20tools-6F8F72?style=for-the-badge" alt="Browse the portfolio">
   </a>
   <a href="https://github.com/sponsors/JoelMomo">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
@@ -16,24 +16,35 @@ Free apps, extensions and small useful tools for Windows, Android, gaming device
   </a>
 </p>
 
+<sub>The full portfolio includes automatic release status and a visual changelog.</sub>
+
 </div>
 
-## Projects
+## AYN Thor apps
 
-| Project | What it does |
-| --- | --- |
-| **[CarePad](https://github.com/JoelMomo/CarePad)** | Controller-friendly AYN Thor companion for diagnostics, games/BIOS checks, controls and device tools. |
-| **[RuneBoard](https://github.com/JoelMomo/RuneBoard)** | Dual-screen Android keyboard designed around the AYN Thor lower display and physical controls. |
-| **[Thor Wi-Fi Recovery](https://github.com/JoelMomo/AYN-Thor-WiFi-Recovery)** | Android recovery utility for the intermittent Wi-Fi scan lockup on AYN Thor. |
-| **[ChatGPT MultiChat Monitor](https://github.com/JoelMomo/chatgpt-multichat-monitor)** | Lightweight Chrome and Edge floating monitor for tracking multiple ChatGPT conversations across tabs and windows. |
-| **[ChatGPT MultiChat](https://github.com/JoelMomo/ChatGPT-MultiChat)** | Portable Windows coordination layer for parallel ChatGPT + Desktop Commander sessions, with isolated Git worktrees, ports, resource locks and a local dashboard. |
-| **[ChatGPT Completion Sound](https://github.com/JoelMomo/chatgpt-completion-sound)** | Lightweight Chrome and Edge extension for completion sounds and notifications. |
+| Project | Status | Focus |
+| --- | --- | --- |
+| **[Thor Wi-Fi Recovery](https://github.com/JoelMomo/AYN-Thor-WiFi-Recovery)** | [![Release](https://img.shields.io/github/v/release/JoelMomo/AYN-Thor-WiFi-Recovery?include_prereleases&style=flat-square)](https://github.com/JoelMomo/AYN-Thor-WiFi-Recovery/releases) | Targeted Android recovery for the intermittent Thor Wi-Fi scan lockup. |
+| **[CarePad](https://github.com/JoelMomo/CarePad)** | ![In development](https://img.shields.io/badge/status-in%20development-D6A84B?style=flat-square) | Controller-friendly Thor companion for diagnostics, games/BIOS checks, controls and device tools. |
+| **[RuneBoard](https://github.com/JoelMomo/RuneBoard)** | ![In development](https://img.shields.io/badge/status-in%20development-D6A84B?style=flat-square) | Dual-screen Android keyboard for the Thor lower display, touch and physical controls. |
+
+## ChatGPT & desktop tools
+
+| Project | Status | Focus |
+| --- | --- | --- |
+| **[ChatGPT MultiChat](https://github.com/JoelMomo/ChatGPT-MultiChat)** | [![Release](https://img.shields.io/github/v/release/JoelMomo/ChatGPT-MultiChat?style=flat-square)](https://github.com/JoelMomo/ChatGPT-MultiChat/releases) | Portable Windows coordination layer for parallel ChatGPT + Desktop Commander sessions. |
+| **[ChatGPT MultiChat Monitor](https://github.com/JoelMomo/chatgpt-multichat-monitor)** | [![Release](https://img.shields.io/github/v/release/JoelMomo/chatgpt-multichat-monitor?style=flat-square)](https://github.com/JoelMomo/chatgpt-multichat-monitor/releases) | Floating Chrome/Edge monitor for active ChatGPT conversations across tabs and windows. |
+| **[ChatGPT Completion Sound](https://github.com/JoelMomo/chatgpt-completion-sound)** | [![Release](https://img.shields.io/github/v/release/JoelMomo/chatgpt-completion-sound?style=flat-square)](https://github.com/JoelMomo/chatgpt-completion-sound/releases) | Lightweight completion sounds and optional silent browser notifications. |
 
 ## What I build
 
-Most projects start as something I wanted for myself: a small fix, utility, workflow improvement or device-specific tool. If it becomes useful enough, I polish it and share it publicly.
+Most projects start as something I wanted for myself: a device-specific fix, a workflow improvement, or a small utility that removes friction. If it becomes useful enough, I polish it and share it publicly.
+
+The common thread is deliberately small software: focused scope, practical UI, local-first behavior where possible, and low maintenance after release.
 
 <div align="center">
+
+[**Open the full portfolio →**](https://joelmomo.github.io/)
 
 <sub>Public projects stay free regardless of support.</sub>
 
